@@ -1,0 +1,36 @@
+li{
+    list-style-type: none;
+    text-decoration-line: none;
+    padding: 10px 0;
+
+}
+ul{
+    margin: auto;
+
+}
+
+.dash{
+ width: 200px;
+    height: 100vh;
+    background-color: rgb(145, 110, 110);
+    
+}
+.about{
+    text-align: center !important;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.App{
+    text-align: center;
+    justify-content: center;
+}
+
+
+.container{
+    width: 100%;
+    text-align: center;
+    
+}
+
+
+
